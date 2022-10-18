@@ -68,3 +68,5 @@ What is a virtual box?
 - Want to kill process in Linux with application name? Use:
 
   `killall -9 appname`
+
+/c/Users/Zakariya/Documents/ShareX/Screenshots/2022-10/firefox_ZVrYOF3R3q.png
