@@ -1,15 +1,8 @@
 
 https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 
-# Virtulisation
-# Dev Env
-### Vagrant
 
-
-
-check internet connectivity `sudo apt-get update
-
-# Vagrant Notes:
+# Vagrant
 
 - Vagrant ssh to get into vm
 - read a folder- cat filename
